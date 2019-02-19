@@ -47,7 +47,7 @@ This will command will create a file `irma-singularity.simg`, which is executabl
 ### A particular version
 
 ```bash
-singularity pull --name mlst shub://phgenomics-singularitysistr@VERSION.NUMBER
+singularity pull --name TMP_DIRECTORY shub://peterk87/irma-singularity/@VERSION.NUMBER
 ```
 
 ### Suggested pattern
